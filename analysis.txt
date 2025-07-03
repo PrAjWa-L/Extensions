@@ -1,0 +1,41 @@
+Task 7: Identify and Remove Suspicious Browser Extensions
+
+Objective:
+To learn how to identify, evaluate, and remove potentially harmful or unnecessary browser extensions, improving overall browser security and performance.
+
+What I Did:
+
+1. Accessed the Extension Manager:
+   - Visited chrome://extensions/ (Chrome) to view all installed extensions.
+
+2. Reviewed Installed Extensions:
+   - Evaluated each extension's purpose.
+   - Checked developer reputation, user reviews, and permissions requested.
+
+3. Evaluated Permissions:
+   - Paid close attention to extensions requesting access to all site data, clipboard, and browser history.
+   - Flagged any that had unclear usage or weren’t in active use.
+
+4. Removed Unused or Suspicious Extensions:
+   - Uninstalled extensions that were no longer needed or had vague descriptions.
+
+5. Restarted the Browser:
+   - Ensured smooth performance and validated extension removal.
+
+6. Researched Browser Extension Security:
+   - Understood how some extensions can pose risks by accessing sensitive data or modifying web content.
+
+Extensions Removed:
+
+Extension Name         Reason for Removal
+PDF Viewer Plus        No longer needed, requested unnecessary permissions
+Quick Notes            Inactive usage, unclear data policy                
+Weather Now            Asked for location and site data access            
+
+Key Learnings:
+
+- Extensions can become security liabilities if left unchecked.
+- Permissions should always align with functionality.
+- Regular audits improve both browser performance and privacy.
+- Even trusted-looking extensions should be reviewed before installing.
+
